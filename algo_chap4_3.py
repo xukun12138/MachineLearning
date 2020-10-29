@@ -5,8 +5,6 @@ Created on Sat Oct 24 20:04:57 2020
 @author: Administrator
 """
 
-# -*- coding: utf-8 -*-
-
 from numpy import *
 import numpy as np
 import pandas as pd
